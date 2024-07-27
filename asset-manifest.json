@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robola11/oroboss-solicitors.git/static/css/main.673fa6c4.css",
+    "main.js": "/robola11/oroboss-solicitors.git/static/js/main.924173ab.js",
+    "static/js/787.a106c657.chunk.js": "/robola11/oroboss-solicitors.git/static/js/787.a106c657.chunk.js",
+    "static/media/img2.jpg": "/robola11/oroboss-solicitors.git/static/media/img2.e869b5b30102d56e922d.jpg",
+    "static/media/img3.jpg": "/robola11/oroboss-solicitors.git/static/media/img3.d41bbebcd32261dad5c1.jpg",
+    "static/media/law1.png": "/robola11/oroboss-solicitors.git/static/media/law1.33c387fab22120c4e201.png",
+    "static/media/lawbg3.jpg": "/robola11/oroboss-solicitors.git/static/media/lawbg3.2a38afbe92d8b072ef82.jpg",
+    "static/media/law1.jpg": "/robola11/oroboss-solicitors.git/static/media/law1.bec3ca886adc69948acd.jpg",
+    "static/media/img1.jpg": "/robola11/oroboss-solicitors.git/static/media/img1.33d745cc53d13ce691aa.jpg",
+    "static/media/logo2.png": "/robola11/oroboss-solicitors.git/static/media/logo2.aaa6731b1fa1f2e01c12.png",
+    "static/media/law.avif": "/robola11/oroboss-solicitors.git/static/media/law.a4e50d6731d6eb00e47e.avif",
+    "static/media/law10.jpg": "/robola11/oroboss-solicitors.git/static/media/law10.9f5c2006184ddcc8f5a0.jpg",
+    "index.html": "/robola11/oroboss-solicitors.git/index.html",
+    "main.673fa6c4.css.map": "/robola11/oroboss-solicitors.git/static/css/main.673fa6c4.css.map",
+    "main.924173ab.js.map": "/robola11/oroboss-solicitors.git/static/js/main.924173ab.js.map",
+    "787.a106c657.chunk.js.map": "/robola11/oroboss-solicitors.git/static/js/787.a106c657.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673fa6c4.css",
+    "static/js/main.924173ab.js"
+  ]
+}
